@@ -1,0 +1,5 @@
+[e2e]
+org = "deisci"
+dockerTag = "canary"
+pullPolicy = "Always"
+podName = "workflow-v2.1.0-e2e"

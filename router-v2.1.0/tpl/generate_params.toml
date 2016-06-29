@@ -1,0 +1,5 @@
+[router]
+org = "deisci"
+pullPolicy = "IfNotPresent"
+dockerTag = "git-7c23489"
+platformDomain = ""
